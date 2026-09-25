@@ -1,0 +1,78 @@
+{
+  "serverUUID": "8a7b6c5d-4e3f-4a2b-9c8d-7e6f5a4b3c2d",
+  "playerAmount": 137,
+  "onlineMode": 1,
+  "platformVersion": "git-Purpur-2402 (MC: 1.21.4)",
+  "javaVersion": "21.0.6",
+  "osName": "Linux",
+  "osArch": "aarch64",
+  "osVersion": "6.8.0-51-generic",
+  "coreCount": 16,
+  "service": {
+    "id": 4210,
+    "version": "3.7.2",
+    "charts": [
+      {
+        "chartId": "configured_worlds",
+        "data": { "value": 4 }
+      },
+      {
+        "chartId": "language_used",
+        "data": { "value": "es" }
+      },
+      {
+        "chartId": "enabled_modules",
+        "data": {
+          "values": {
+            "rewards": 812,
+            "leaderboards": 640,
+            "quests": 291
+          }
+        }
+      },
+      {
+        "chartId": "storage_backend",
+        "data": {
+          "values": {
+            "sql": {
+              "mariadb": 340,
+              "postgresql": 96
+            },
+            "flatfile": {
+              "yaml": 512,
+              "json": 27
+            }
+          }
+        }
+      },
+      {
+        "chartId": "permission_plugin",
+        "data": {
+          "values": {
+            "LuckPerms": 903,
+            "none": 61
+          }
+        }
+      },
+      {
+        "chartId": "players_per_hour",
+        "data": {
+          "values": {
+            "weekday": [4, 3, 2, 2, 5, 11, 24, 38],
+            "weekend": [9, 7, 5, 6, 14, 27, 51, 73]
+          }
+        }
+      },
+      {
+        "chartId": "active_sessions",
+        "data": {
+          "values": {
+            "survival": 88,
+            "creative": 31,
+            "lobby": 18
+          }
+        }
+      }
+    ]
+  }
+}

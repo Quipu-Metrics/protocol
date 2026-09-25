@@ -1,0 +1,15 @@
+{
+  "serverUUID": "4b5a6c7d-8e9f-4a1b-8c2d-3e4f5a6b7c8d",
+  "playerAmount": -1,
+  "onlineMode": -1,
+  "platformVersion": "Pumpkin 0.1.0-dev",
+  "osName": "Linux",
+  "osArch": "x86_64",
+  "osVersion": "6.11.0-9-generic",
+  "coreCount": 2,
+  "service": {
+    "id": 9001,
+    "version": "0.2.0",
+    "charts": []
+  }
+}

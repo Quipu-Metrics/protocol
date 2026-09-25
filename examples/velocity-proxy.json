@@ -1,0 +1,21 @@
+{
+  "serverUUID": "1d2c3b4a-5f6e-4d7c-8b9a-0f1e2d3c4b5a",
+  "playerAmount": 486,
+  "onlineMode": 1,
+  "platformVersion": "3.4.0-SNAPSHOT (git-a1b2c3d4-b512)",
+  "javaVersion": "21.0.5",
+  "osName": "Linux",
+  "osArch": "amd64",
+  "osVersion": "5.15.0-127-generic",
+  "coreCount": 4,
+  "service": {
+    "id": 77,
+    "version": "2.1.0",
+    "charts": [
+      {
+        "chartId": "registered_backends",
+        "data": { "value": 9 }
+      }
+    ]
+  }
+}
